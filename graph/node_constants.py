@@ -1,0 +1,5 @@
+RETRIEVE = "retrieve"
+GRADE_DOCUMENTS ="grade_documents"
+GENERATE = "generate_node"
+WEBSEARCH = "websearch"
+REFUSE = "refuse"
